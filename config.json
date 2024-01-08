@@ -1,0 +1,21 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/coding_thunder",
+        "prod_uri":"'mysql://root:@localhost/coding_thunder'",
+        "fb_uri":"https://www.facebook.com/suraj.surajj.3110",
+        "tw_uri":"https://www.twitter.com/coding_thunder",
+        "gh_uri":"https://www.github.com/coding_thunder",
+        "blog_name":"Suraj Coder",
+        "tag_line":"A blog like by Programmer and hardworker ",
+        "about_urself":"Hello everyone , myself Suraj Thapaliya and i am from Nepal . This is my first website regarding blog which i had made using flask in python programming . Hope you will like my blog website . There is thing to be updated in this blog website . So , Keep supporting me . ",
+        "mail_username":"suraj.durgaandsons@gmail.com",
+        "mail_passw":"kzkv dxso wfxy mqzp",
+        "no_of_post":2,
+        "usr_name":"Suraj Coder",
+        "usr_pass":"What@123" ,
+        "upload_location": "C:\\Users\\suraj\\OneDrive\\Desktop\\python\\flask in python\\Static\\assets\\img"
+
+    }
+}
